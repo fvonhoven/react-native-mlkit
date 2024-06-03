@@ -36,7 +36,7 @@ yarn build
 
 ##
 
-## 5. Build and run the app
+## 4. Build and run the app
 
 #### Via Terminal
 

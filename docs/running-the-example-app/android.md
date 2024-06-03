@@ -28,7 +28,7 @@ yarn build
 
 ##
 
-## 5. Build and run the app
+## 4. Build and run the app
 
 From `~app/ExampleApp` use the included script to run the app in the android emulator.
 
